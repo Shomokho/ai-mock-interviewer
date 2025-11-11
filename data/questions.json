@@ -1,0 +1,26 @@
+{
+    "behavioral": [
+        "Tell us about yourself.",
+        "What motivated you to apply for this job?",
+        "What do you know about our company or organization?",
+        "What are your strengths and weaknesses?",
+        "How do you handle stress or pressure at work?",
+        "What sets you aprt from other candidates?",
+        "Where do you see yourself in five years?",
+        "How do you manage your time and handle multiple tasks?",
+        "How do you deal with bugs or unexpected problems?", "When have you had to quickly learn a new skill to complete a task?"
+    ],
+    "technical": [
+    "Arrays: Given a list of numbers, how would you find the largest number?",
+    "Strings: How can you check if a word reads the same forwards and backwards, for example, 'level'?",
+    "Hash Maps: You have a list of words. How would you count how many times each word appears?",
+    "Two Numbers Sum: Given a list of numbers and a target (e.g., 10), how would you find any two numbers that add up to the target?",
+    "Big-O Basics: What does O(1), O(n), and O(log n) roughly mean in plain words?",
+    "OOP Basics: What is a 'class' and what is an 'object'?",
+    "HTTP Basics: What is the difference between a GET and POST request?",
+    "Databases: What is the difference between a table row and a table column?",
+    "Git: How do you make a new branch, commit your changes, and push the branch to GitHub?",
+    "Testing: What is a unit test and why is it helpful?"
+]
+
+}
